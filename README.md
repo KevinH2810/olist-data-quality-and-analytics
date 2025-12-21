@@ -73,3 +73,6 @@ If this is your first time viewing the project:
 1. Start with notebooks/00_project_overview.ipynb
 2. Continue to notebooks/01_delivery_time_analysis.ipynb for the first completed objective
 3. Additional notebooks build on this foundation
+
+Kaggle Notebook
+https://www.kaggle.com/code/kevinh28/olist-delivery-time-analysis
