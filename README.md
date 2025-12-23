@@ -52,7 +52,7 @@ data/
 notebooks/
   00_project_overview.ipynb
   01_delivery_time_analysis.ipynb
-  02_on_time_vs_late.ipynb          (planned)
+  02_on_time_vs_late.ipynb
   03_delivery_by_location_or_seller (planned)
 
 NOTES ON METHODOLOGY
@@ -75,4 +75,6 @@ If this is your first time viewing the project:
 3. Additional notebooks build on this foundation
 
 Kaggle Notebook
-https://www.kaggle.com/code/kevinh28/olist-delivery-time-analysis
+objective 1: https://www.kaggle.com/code/kevinh28/olist-delivery-time-analysis
+
+objective 2: https://www.kaggle.com/code/kevinh28/02-on-time-vs-late
