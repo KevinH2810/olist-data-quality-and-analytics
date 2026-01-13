@@ -32,12 +32,12 @@ The analysis is structured into multiple focused objectives:
 
    - Understand the typical delivery duration and its variability
    - Define relative fast and slow deliveries using median and interquartile range (IQR)
-2. On-Time vs Late Delivery Analysis (planned)
+2. On-Time vs Late Delivery Analysis
 
    - Compare actual delivery times with estimated delivery dates
-3. Delivery Performance by Location or Seller (planned)
+3. Review Score between Late Deliveries vs Early Deliveries
 
-   - Explore whether delivery performance differs across cities or sellers
+   - Explore whether delivery performance between Late Deliveries and Early Deliveries has same average review score or not
 
 Each objective is implemented as a separate notebook to keep the analysis clear and
 self-contained.
@@ -53,7 +53,7 @@ notebooks/
   00_project_overview.ipynb
   01_delivery_time_analysis.ipynb
   02_on_time_vs_late.ipynb
-  03_delivery_by_location_or_seller (planned)
+  03_delivery_review_score_analysis.ipynb
 
 NOTES ON METHODOLOGY
 --------------------
