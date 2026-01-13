@@ -45,15 +45,16 @@ self-contained.
 REPOSITORY STRUCTURE
 --------------------
 
-data/
-  raw/        Original datasets
-  reports/    Data quality reports (missing or invalid records)
-
-notebooks/
-  00_project_overview.ipynb
-  01_delivery_time_analysis.ipynb
-  02_on_time_vs_late.ipynb
-  03_delivery_review_score_analysis.ipynb
+data/ <BR>
+&nbsp;&nbsp;&nbsp;&nbsp;raw/<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Original datasets <BR>
+&nbsp;&nbsp;&nbsp;&nbsp;reports/    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data quality reports (missing or invalid records)<BR>
+notebooks/<BR>
+  &nbsp;&nbsp;&nbsp;&nbsp;00_project_overview.ipynb <BR>
+  &nbsp;&nbsp;&nbsp;&nbsp;01_delivery_time_analysis.ipynb <BR>
+  &nbsp;&nbsp;&nbsp;&nbsp;02_on_time_vs_late.ipynb <BR>
+  &nbsp;&nbsp;&nbsp;&nbsp;03_delivery_review_score_analysis.ipynb<BR>
 
 NOTES ON METHODOLOGY
 --------------------
@@ -74,7 +75,7 @@ If this is your first time viewing the project:
 2. Continue to notebooks/01_delivery_time_analysis.ipynb for the first completed objective
 3. Additional notebooks build on this foundation
 
-Kaggle Notebook
-objective 1: https://www.kaggle.com/code/kevinh28/olist-delivery-time-analysis
-
-objective 2: https://www.kaggle.com/code/kevinh28/02-on-time-vs-late
+Kaggle Notebook <BR>
+Objective 1: https://www.kaggle.com/code/kevinh28/olist-delivery-time-analysis <BR>
+Objective 2: https://www.kaggle.com/code/kevinh28/02-on-time-vs-late <BR>
+Objective 3 : https://www.kaggle.com/code/kevinh28/olist-delivery-review-score-analysis
